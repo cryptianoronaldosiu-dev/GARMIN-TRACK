@@ -1,1 +1,1 @@
-# GARMIN-TRACK
+# Garmin-training-agent
